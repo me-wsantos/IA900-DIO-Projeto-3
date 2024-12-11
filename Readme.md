@@ -15,7 +15,7 @@
 <hr>
 
 ### :package: Dependências
-* @azure/ai-form-recognizer: ^5.0.0
+* @azure/ai-language-text: ^1.1.0
 * dotenv: ^16.4.7
 <br>
 <hr>
