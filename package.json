@@ -1,0 +1,16 @@
+{
+  "name": "projeto3",
+  "version": "1.0.0",
+  "description": "Projeto 3 Curso IA-900 DIO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/ai-language-text": "^1.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
