@@ -8,7 +8,7 @@
 <hr>
 
 ### :zap: Tecnologias
-* [Microsoft Azure AI Vision](https://language.cognitive.azure.com/tryout/sentiment)
+* [Microsoft Azure Language Studio](https://language.cognitive.azure.com/tryout/sentiment)
 * [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/pt)
 <br>
